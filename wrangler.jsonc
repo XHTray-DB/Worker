@@ -1,0 +1,16 @@
+{
+  "name": "mgzvcvedu12s",
+  "main": "src/worker_2nv33cxj.js",
+  "workers_dev": true,
+  "preview_urls": true,
+  "compatibility_date": "2026-07-10",
+  "compatibility_flags": [
+    "nodejs_compat"
+  ],
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "bd89062a-6032-47d9-b23f-a91fc7156c4e"
+    }
+  ]
+}
