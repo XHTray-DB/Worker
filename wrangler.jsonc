@@ -1,6 +1,6 @@
 {
   "name": "mgzvcvedu12s",
-  "main": "src/worker_2nv33cxj.js",
+  "main": "worker.js",
   "workers_dev": true,
   "preview_urls": true,
   "compatibility_date": "2026-07-10",
