@@ -1,5 +1,5 @@
 {
-  "name": "mgzvcvedu12s",
+  "name": "worker",
   "main": "worker.js",
   "workers_dev": true,
   "preview_urls": true,
@@ -10,7 +10,7 @@
   "d1_databases": [
     {
       "binding": "DB",
-      "database_id": "bd89062a-6032-47d9-b23f-a91fc7156c4e"
+      "database_id": "D1_ID_FOR_THIS_ACCOUNT"
     }
   ]
 }
